@@ -19,7 +19,7 @@ const [progress, setProgress] = useState(30)
        <Navbar />
        <LoadingBar
         color='#f11946'
-        height={3}
+        height={3}  
         progress={progress}
       
       />
