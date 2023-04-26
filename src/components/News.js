@@ -19,7 +19,7 @@ const News =(props)=>{
     const updateNews= async() =>{
         props.setProgress(10)
         setLoading(true)
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=b37e66bcadb646778db240af6756f88e&pagesize=${props.pageSize}&page=${page}`
+        const url = `${process.env.REACT_APP_NEWS_API_URL}?country=${props.country}&category=${props.category}&apiKey=${process.env.REACT_APP_API_KEY}&pagesize=${props.pageSize}&page=${page}`
         props.setProgress(30)
         props.setProgress(40)
         let data = await fetch(url);
@@ -41,7 +41,7 @@ const News =(props)=>{
          
         setPage(page+1)
        
-        const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=b37e66bcadb646778db240af6756f88e&pagesize=${props.pageSize}&page=${  page +1}`
+        const url = `${process.env.REACT_APP_NEWS_API_URL}?country=${props.country}&category=${props.category}&apiKey=${process.env.REACT_APP_API_KEY}&pagesize=${props.pageSize}&page=${page+1}`
         setLoading(true)
         let data = await fetch(url);
         let parsedData = await data.json();

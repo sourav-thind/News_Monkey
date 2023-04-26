@@ -6,6 +6,7 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
+import About from './components/About';
 
   const App =()=> {
  
@@ -31,6 +32,7 @@ const [progress, setProgress] = useState(30)
           <Route exact path="/health" element={ <News setProgress={setProgress} key="health" pageSize={8} country="in" category="health"/>} />
           <Route exact path="/sports" element={ <News setProgress={setProgress} key="sports" pageSize={8} country="in" category="sports"/>} />
           <Route exact path="/technology" element={ <News setProgress={setProgress} key="technology" pageSize={8} country="in" category="technology"/>} />
+          <Route exact path="/about" element={ <About/>} />
          
 
 

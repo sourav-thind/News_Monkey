@@ -26,6 +26,8 @@ import { Link } from 'react-router-dom';
                 <li className="nav-item"><Link className="nav-link text-light" to="/sports">sports</Link></li>
                 <li className="nav-item"><Link className="nav-link text-light" to="/technology">technology</Link></li>
        
+                <li className="nav-item"><Link className="nav-link text-light" to="/about">About</Link></li>
+       
             </ul>
             
     </div>

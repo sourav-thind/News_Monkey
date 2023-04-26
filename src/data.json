@@ -1,0 +1,96 @@
+{
+
+"articles": [
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Toluse Olorunnipa",
+"title": "Zelensky's visit creates a remarkable moment for two presidents - The Washington Post",
+"description": "Zelensky left his war-battered country for the first time. Biden marked his efforts to renew U.S. leadership. Wednesday' visit was a remarkable moment for two presidents.",
+"url": "https://www.washingtonpost.com/politics/2022/12/21/biden-zelensky-visit-two-presidents/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4CAE27VDE55GOAUHDQJCJ773Y.JPG&w=1440",
+"publishedAt": "2022-12-22T03:51:00Z",
+"content": "Comment on this story\r\nCapping a year in which they each faced long odds and defied gloomy predictions, the two men stood side by side at the White House on Wednesday President Biden in a blue suit, … [+7559 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Jan 6 Riots Panel | Lawmakers Urge Criminal Charges Against Donald Trump | Capitol Riots Hearing - CNN-News18",
+"description": "Jan 6 Riots Panel | Lawmakers Urge Criminal Charges Against Donald Trump | Capitol Riots HearingThe committee unanimously recommended that the Justice Depart...",
+"url": "https://www.youtube.com/watch?v=_3ZWk8BeXoc",
+"urlToImage": "https://i.ytimg.com/vi/_3ZWk8BeXoc/maxresdefault_live.jpg",
+"publishedAt": "2022-12-22T02:23:59Z",
+"content": null
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "Jacques Billeaud",
+"title": "Lake's trial to be named governor lacks 1st day bombshells - The Associated Press - en Español",
+"description": "PHOENIX (AP) — Since her loss in the Arizona governor’s race, Republican Kari Lake has claimed the election was stolen and promised bombshells showing she was the rightful winner. But on the first day of trial in her election challenge Wednesday, her lawyers …",
+"url": "https://apnews.com/article/2022-midterm-elections-arizona-phoenix-katie-hobbs-b026618ab22cc3f60c04b968b48a46ee",
+"urlToImage": "https://storage.googleapis.com/afs-prod/media/785054e81fdd404981bef4063b3b7e5b/3000.webp",
+"publishedAt": "2022-12-22T01:55:28Z",
+"content": "PHOENIX (AP) Since her loss in the Arizona governors race, Republican Kari Lake has claimed the election was stolen and promised bombshells showing she was the rightful winner. But on the first day o… [+4994 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "ESPN"
+},
+"author": "Kevin Seifert",
+"title": "Philadelphia Eagles lead NFL with 8 selections to new Pro Bowl Games - ESPN",
+"description": "The 13-1 Eagles lead the NFL with eight players making the league's newly rebranded Pro Bowl Games, while the Cowboys and Chiefs each have seven.",
+"url": "https://www.espn.com/nfl/story/_/id/35301071/philadelphia-eagles-lead-nfl-8-selections-new-pro-bowl-games",
+"urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1218%2Fr1108397_1296x729_16%2D9.jpg",
+"publishedAt": "2022-12-22T01:29:04Z",
+"content": "The Philadelphia Eagles have the NFL's best record at 13-1. Now they lead the NFL in invitations to the Pro Bowl Games as well.\r\nEight Eagles players -- quarterback Jalen Hurts, wide receiver A.J. Br… [+4568 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Microsoft-Activision deal: Gamers sue to stop merger - BBC",
+"description": "Xbox maker faces lawsuit from10 gamers who say the multibillion dollar merger will harm competition.",
+"url": "https://www.bbc.com/news/business-64047809",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F710/production/_128084236_callofduty.jpg",
+"publishedAt": "2022-12-22T01:27:18Z",
+"content": "Microsoft faces legal action from 10 gamers to block its merger with Call of Duty maker Activision Blizzard.\r\nThe lawsuit filed in a US federal court says the $69bn (£56bn) deal by the Xbox console m… [+2638 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Jeanne Sahadi, Katie Lobosco, David Goldman",
+"title": "Takeaways from the House committee's report on Trump taxes - CNN",
+"description": "It will take time for lawmakers and the public to digest the trove of documents relating to former President Donald Trump's tax returns released Tuesday night by the House Ways and Means Committee.",
+"url": "https://www.cnn.com/2022/12/21/investing/trump-taxes/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211021100750-donald-trump-100617-file.jpg?q=x_2,y_0,h_1123,w_1995,c_crop/w_800",
+"publishedAt": "2022-12-22T01:19:00Z",
+"content": "It will take time for lawmakers and the public to digest the trove of documents relating to former President Donald Trumps tax returns released Tuesday night by the House Ways and Means Committee. \r\n… [+8348 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "State of emergency after Northern California earthquake - CBS Evening News",
+"description": "A state of emergency is in effect following Tuesday's 6.4-magnitude earthquake in Northern California in which at least two people were killed.#news #califor...",
+"url": "https://www.youtube.com/watch?v=Pyvq_4XTx0s",
+"urlToImage": "https://i.ytimg.com/vi/Pyvq_4XTx0s/maxresdefault.jpg",
+"publishedAt": "2022-12-22T00:54:50Z",
+"content": null
+}
+]
+}
