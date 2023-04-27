@@ -17,7 +17,7 @@ export default function About() {
         </h2>
         <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
           <div className="accordion-body" >
-              <h5>The application you just saw was of limited functionality, that is because the NEWS API we are using doesnot work on deployment it only works on Localhost. The News articles you saw were not latest, they were copied from API on 26th April 2023 and pasted in a json file. Also there is no Image element on any of article, this is due to broken links in json file we retived. Also there are just 12 articles each. The loading bar on top of navbar wouldnot be working fine because it was synced with data fetching from API. You can go to my Github and Check the code the last second Commit was of the API Fetch and last one will be of the application you are watching.</h5>
+              <h5>The application you just saw was of limited functionality, that is because the NEWS API we are using doesnot work on deployment it only works on Localhost. The News articles you saw were not latest, they were copied from API on 27th April 2023 and pasted in a json file.Also Some of the Images have our logo as the Thumbnail, this is due to broken links in json file we retived. Also there are just 15-20 articles each. The loading bar on top of navbar wouldnot be working fine because it was synced with data fetching from API. You can go to my Github and Check the code the last third Commit was of the API Fetch and last one will be of the application you are watching.</h5>
           </div>
         </div>
       </div>

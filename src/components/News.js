@@ -24,7 +24,7 @@ const News =(props)=>{
         const filteredArticles = data.articles.filter(article => article.source.category === props.category);
         location.pathname==='/'?setArticles(data.articles):setArticles(filteredArticles);
       }, [props.category]);
-      
+     
     // const updateNews= async() =>{
     //     props.setProgress(10)
     //     setLoading(true)

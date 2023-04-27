@@ -29,6 +29,7 @@ import { Link } from 'react-router-dom';
                 <li className="nav-item"><Link className="nav-link text-light" to="/about">About</Link></li>
        
             </ul>
+            <p>Souravpreet Singh</p>
             
     </div>
   </div>
